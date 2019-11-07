@@ -1,0 +1,13 @@
+#transcription {
+    height: 600px;
+    width: 70%;
+    background-color: black;
+    margin-top: 30px;
+
+}
+p{
+    color: white;
+}
+.command{
+    color: orange;
+}
